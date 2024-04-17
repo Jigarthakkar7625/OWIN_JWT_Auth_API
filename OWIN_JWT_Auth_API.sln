@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OWIN_JWT_Auth_API", "OWIN_JWT_Auth_API.csproj", "{6C5F3EC6-49B4-46D8-85A4-9B7B8FC4A933}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C5F3EC6-49B4-46D8-85A4-9B7B8FC4A933}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C5F3EC6-49B4-46D8-85A4-9B7B8FC4A933}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C5F3EC6-49B4-46D8-85A4-9B7B8FC4A933}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C5F3EC6-49B4-46D8-85A4-9B7B8FC4A933}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3ABF0CF3-49FA-4898-AEAA-CD3CB377F559}
+	EndGlobalSection
+EndGlobal
